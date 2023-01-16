@@ -1,3 +1,4 @@
-# go-test
+# code snippet
 
-测试go基础语法
+代码片段
+
